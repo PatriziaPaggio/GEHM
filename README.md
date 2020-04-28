@@ -1,1 +1,1 @@
-!(gehm_logo_all_pinkHD.png)
+This is the GEHM network web site.
