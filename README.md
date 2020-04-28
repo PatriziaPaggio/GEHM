@@ -1,1 +1,1 @@
-This is the web site of the GEHM research network.
+!(gehm_logo_all_pinkHD.png)
